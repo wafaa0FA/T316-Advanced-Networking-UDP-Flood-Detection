@@ -8,7 +8,7 @@ Usage:
     python3 infer.py --pcap <pcap_file>       # Classify from PCAP file
 
 Examples:
-    python3 infer.py ~/tma_project/new_sample.csv
+    python3 infer.py ~/adv316_project/new_sample.csv
     sudo python3 infer.py --live eth0
     python3 infer.py --pcap /path/to/capture.pcap
 """
